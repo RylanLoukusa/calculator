@@ -1,0 +1,53 @@
+*{
+    background-color:white
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+    
+.body{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+.largeBox{
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgb(170, 170, 170);
+    border: 1px black solid;
+}
+.display{
+    border: 1px solid white;
+    background-color: rgb(170, 170, 170);
+    padding:25px;
+    margin: 10px 20px;
+    text-align: right;
+}
+.currentInput{
+    background-color: rgb(170, 170, 170); ;
+}
+button{
+    width: 20%;
+    padding:30px;
+    margin:5px;
+    border-radius: 10px;
+    border-color: white;
+    background-color:palevioletred;
+
+}
+.deleteBtn{
+   padding: 30px 22px;
+}
+.clearBtn{
+    padding-right:250px;
+    
+}
+.equalBtn{
+    padding-left: 40px;
+    padding-right: 40px;
+}
